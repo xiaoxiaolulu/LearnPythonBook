@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="354eeb0a-f24b-448a-b439-6d1ac93a769f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据结构/1.16 过滤序列元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/1.17 从字典中提取子集.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/1.18 映射名称到序列元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/1.19 转换并同时计算数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/1.20 合并多个字典或映射.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/1.15 通过某个字段将记录分组.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/1.15 通过某个字段将记录分组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2. 8 多行匹配模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.1  使用多个界定符分割字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.10 正则使用uncode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.11 删除字符串中不需要的字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.12 审查清理文本字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.13 字符串对齐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.14 合并拼接字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.15 字符串中插入变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.17 在字符串中处理html和xml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.18 字符串令牌解析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.19 实现一个简单的递归下降分析器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.2 字符串开头或结尾匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.3 用shell通配符匹配字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.4 字符串匹配和搜索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.5 字符串搜索和替换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.6 字符串忽略大小写的搜索替换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.7 最短匹配模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/2.9 将UNICODE文本标准化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串和文本/test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数字日期和时间/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数字日期和时间/数字的四舍五入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数字日期和时间/精确的浮点数运算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/1.1 解压序列赋值给多个变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/1.1 解压序列赋值给多个变量.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,117 +35,49 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_10_.coverage" NAME="1.10 删除序列相同元素并保持顺序 Coverage Results" MODIFIED="1544688523552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_2__.coverage" NAME="1.2  解压可迭代对象赋值给多个变量 Coverage Results" MODIFIED="1544679880152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_19_.coverage" NAME="1.19 转换并同时计算数据 Coverage Results" MODIFIED="1544693145069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_18_.coverage" NAME="1.18 映射名称到序列元素 Coverage Results" MODIFIED="1544691410042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_5__.coverage" NAME="1.5  实现一个优先级队列 Coverage Results" MODIFIED="1544685190320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_12_.coverage" NAME="1.12 序列中出现次数最多的元素 Coverage Results" MODIFIED="1544689017637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_16_.coverage" NAME="1.16 过滤序列元素 Coverage Results" MODIFIED="1544690698721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_11_.coverage" NAME="1.11 命名切片 Coverage Results" MODIFIED="1544688803278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_7_.coverage" NAME="1.7 字典排序 Coverage Results" MODIFIED="1544686017552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$2_3_shell.coverage" NAME="2.3 用shell通配符匹配字符串 Coverage Results" MODIFIED="1545016112273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和文本" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$2_1__.coverage" NAME="2.1  使用多个界定符分割字符串 Coverage Results" MODIFIED="1544703500231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和文本" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$.coverage" NAME="数字的四舍五入 Coverage Results" MODIFIED="1545035402608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数字日期和时间" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_17_.coverage" NAME="1.17 从字典中提取子集 Coverage Results" MODIFIED="1544691041568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_1.coverage" NAME="1.1 Coverage Results" MODIFIED="1544679157181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_3__N_.coverage" NAME="1.3 保留最后 N 个元素 Coverage Results" MODIFIED="1544680580259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_8_.coverage" NAME="1.8 字典的运算 Coverage Results" MODIFIED="1544686394952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_9_.coverage" NAME="1.9 查找两字典的相同点 Coverage Results" MODIFIED="1544687390904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_13_.coverage" NAME="1.13 通过某个关键字排序一个字典列表 Coverage Results" MODIFIED="1544689756388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_15_.coverage" NAME="1.15 通过某个字段将记录分组 Coverage Results" MODIFIED="1544690435292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
-    <SUITE FILE_PATH="coverage/LearnPythonBook$1_20_.coverage" NAME="1.20 合并多个字典或映射 Coverage Results" MODIFIED="1544693345385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_6_.coverage" NAME="1.6 字典中的键映射多个值 Coverage Results" MODIFIED="1544685737199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$2_13_.coverage" NAME="2.13 字符串对齐 Coverage Results" MODIFIED="1545033260489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和文本" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_2__.coverage" NAME="1.2  解压可迭代对象赋值给多个变量 Coverage Results" MODIFIED="1544679880152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$2_11_.coverage" NAME="2.11 删除字符串中不需要的字符 Coverage Results" MODIFIED="1545032894900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和文本" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_18_.coverage" NAME="1.18 映射名称到序列元素 Coverage Results" MODIFIED="1544691410042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_5__.coverage" NAME="1.5  实现一个优先级队列 Coverage Results" MODIFIED="1544685190320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_16_.coverage" NAME="1.16 过滤序列元素 Coverage Results" MODIFIED="1544690698721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_11_.coverage" NAME="1.11 命名切片 Coverage Results" MODIFIED="1544688803278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_7_.coverage" NAME="1.7 字典排序 Coverage Results" MODIFIED="1544686017552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$2_14_.coverage" NAME="2.14 合并拼接字符串 Coverage Results" MODIFIED="1545033355492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和文本" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$2_17_htmlxml.coverage" NAME="2.17 在字符串中处理html和xml Coverage Results" MODIFIED="1545034057982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串和文本" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_8_.coverage" NAME="1.8 字典的运算 Coverage Results" MODIFIED="1544686394952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/LearnPythonBook$1_20_.coverage" NAME="1.20 合并多个字典或映射 Coverage Results" MODIFIED="1544693345385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_4___N_.coverage" NAME="1.4  查找最大或最小的 N 个元素 Coverage Results" MODIFIED="1544683509191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
     <SUITE FILE_PATH="coverage/LearnPythonBook$1_14_.coverage" NAME="1.14 排序不支持原生比较的对象 Coverage Results" MODIFIED="1544690059499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.14 排序不支持原生比较的对象.py">
+        <entry file="file://$PROJECT_DIR$/数字日期和时间/数字的四舍五入.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.15 通过某个字段将记录分组.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#421#452#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.16 过滤序列元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.17 从字典中提取子集.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.18 映射名称到序列元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.19 转换并同时计算数据.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.20 合并多个字典或映射.py">
+        <entry file="file://$PROJECT_DIR$/数字日期和时间/精确的浮点数运算.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.2  解压可迭代对象赋值给多个变量.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.4  查找最大或最小的 N 个元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/1.9 查找两字典的相同点.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -137,6 +87,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="yaml" />
         <option value="Python Script" />
       </list>
     </option>
@@ -170,14 +121,36 @@
         <option value="$PROJECT_DIR$/数据结构/1.18 映射名称到序列元素.py" />
         <option value="$PROJECT_DIR$/数据结构/1.19 转换并同时计算数据.py" />
         <option value="$PROJECT_DIR$/数据结构/1.20 合并多个字典或映射.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.1  使用多个界定符分割字符串.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.2 字符串开头或结尾匹配.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/test.yaml" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.3 用shell通配符匹配字符串.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.4 字符串匹配和搜索.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/字符串搜索和替换.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.6 字符串忽略大小写的搜索替换.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.7 最短匹配模式.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2. 8 多行匹配模式.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.9 将UNICODE.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.9 将UNICODE文本标准化.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.10 正则使用uncode.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.11 删除字符串中不需要的字符.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.12 审查清理文本字符串.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.13 字符串对齐.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.14 合并拼接字符串.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.15 字符串中插入变量.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.17 在字符串中处理html和xml.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.18 字符串令牌解析.py" />
+        <option value="$PROJECT_DIR$/字符串和文本/2.19 实现一个简单的递归下降分析器.py" />
+        <option value="$PROJECT_DIR$/数字日期和时间/数字的四舍五入.py" />
+        <option value="$PROJECT_DIR$/数字日期和时间/精确的浮点数运算.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-179" />
-    <option name="y" value="187" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="-273" />
+    <option name="y" value="62" />
+    <option name="width" value="1919" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,7 +169,7 @@
             <path>
               <item name="LearnPythonBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnPythonBook" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="数字日期和时间" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,6 +179,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -221,8 +195,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.20 合并多个字典或映射">
-    <configuration name="1.16 过滤序列元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.数字的四舍五入">
+    <configuration name="数字的四舍五入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPythonBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数字日期和时间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/1.16 过滤序列元素.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数字日期和时间/数字的四舍五入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.17 从字典中提取子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.11 删除字符串中不需要的字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPythonBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +226,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串和文本" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/1.17 从字典中提取子集.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串和文本/2.11 删除字符串中不需要的字符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.18 映射名称到序列元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.13 字符串对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPythonBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串和文本" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/1.18 映射名称到序列元素.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串和文本/2.13 字符串对齐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.19 转换并同时计算数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.14 合并拼接字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPythonBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,12 +270,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串和文本" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/1.19 转换并同时计算数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串和文本/2.14 合并拼接字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.20 合并多个字典或映射" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.17 在字符串中处理html和xml" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPythonBook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,12 +292,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串和文本" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/1.20 合并多个字典或映射.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串和文本/2.17 在字符串中处理html和xml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.20 合并多个字典或映射" />
-        <item itemvalue="Python.1.19 转换并同时计算数据" />
-        <item itemvalue="Python.1.18 映射名称到序列元素" />
-        <item itemvalue="Python.1.17 从字典中提取子集" />
-        <item itemvalue="Python.1.16 过滤序列元素" />
+        <item itemvalue="Python.数字的四舍五入" />
+        <item itemvalue="Python.2.17 在字符串中处理html和xml" />
+        <item itemvalue="Python.2.14 合并拼接字符串" />
+        <item itemvalue="Python.2.13 字符串对齐" />
+        <item itemvalue="Python.2.11 删除字符串中不需要的字符" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +326,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544678285707</updated>
-      <workItem from="1544678287451" duration="13620000" />
+      <workItem from="1544678287451" duration="13882000" />
+      <workItem from="1544703233815" duration="642000" />
+      <workItem from="1545015721488" duration="5307000" />
     </task>
     <task id="LOCAL-00001" summary="字典运算">
       <created>1544686514897</created>
@@ -372,33 +348,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13620000" />
+    <option name="totallyTimeSpent" value="19831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32825485" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4833795" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32734805" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,20 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/1.8 字典的运算.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/1.10 删除序列相同元素并保持顺序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.11 命名切片.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -480,24 +442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/1.1 解压序列赋值给多个变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.2  解压可迭代对象赋值给多个变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/1.4  查找最大或最小的 N 个元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -517,8 +465,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.15 通过某个字段将记录分组.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="483">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#421#452#0" expanded="true" />
           </folding>
@@ -528,35 +476,198 @@
     <entry file="file://$PROJECT_DIR$/数据结构/1.16 过滤序列元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.17 从字典中提取子集.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="92">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.18 映射名称到序列元素.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.19 转换并同时计算数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/1.20 合并多个字典或映射.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/1.1 解压序列赋值给多个变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/1.4  查找最大或最小的 N 个元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/1.8 字典的运算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/1.10 删除序列相同元素并保持顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.1  使用多个界定符分割字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.2 字符串开头或结尾匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/test.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.3 用shell通配符匹配字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.4 字符串匹配和搜索.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.5 字符串搜索和替换.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.6 字符串忽略大小写的搜索替换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.7 最短匹配模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2. 8 多行匹配模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.9 将UNICODE文本标准化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.10 正则使用uncode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.11 删除字符串中不需要的字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.12 审查清理文本字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.13 字符串对齐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.14 合并拼接字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.15 字符串中插入变量.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.17 在字符串中处理html和xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.18 字符串令牌解析.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串和文本/2.19 实现一个简单的递归下降分析器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数字日期和时间/数字的四舍五入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数字日期和时间/精确的浮点数运算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
